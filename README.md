@@ -1,2 +1,2 @@
-# we-dev
+# web-dev
 this is we dev project
