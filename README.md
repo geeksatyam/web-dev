@@ -1,2 +1,2 @@
 # web-dev
-this is we dev project
+this is web dev project
